@@ -115,3 +115,10 @@ def is_volatility(
         True  = dự đoán có “vol move” trong 10s tới
         False = dự đoán không
     """
+```
+
+## 4. 👨‍💻 Tác giả
+**Phạm Minh Khôi**  
+FPT University – AI Major  
+📧 Contact: [phamminhkhoi.05.09.12@gmail.com]  
+📦 HuggingFace: * (https://huggingface.co/minhkhoiaifinance/Crypto-Marketmaker-MachineLearning-volatility-signal) *
